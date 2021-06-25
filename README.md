@@ -4,7 +4,6 @@ From your command line, clone and run react-portfolio-template:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/chetanverma16/react-portfolio-template
 
 # Go into the repository
 $ cd react-portfolio-template
